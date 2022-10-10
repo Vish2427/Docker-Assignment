@@ -2,7 +2,7 @@ name: docker hub push
 on:
   push:
     branches:
-      - 'master'
+      - 'main'
 jobs:
   build:
     runs-on: ubuntu-latest
