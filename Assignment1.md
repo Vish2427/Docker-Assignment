@@ -3,6 +3,7 @@
 Command used to pull image from the Docker Hub repo
 ```
 docker pull <repo_name>
+![pull](https://user-images.githubusercontent.com/98541876/194858662-0a10819d-fb73-41e6-a503-afad8af7b914.png)
 
 ```
 2. Build Image
